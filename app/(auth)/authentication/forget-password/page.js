@@ -34,7 +34,7 @@ const ForgetPassword = () => {
         setEmail(secureLocalStorage.getItem("email"));
       }
     }
-  }, []);
+  }, [router]);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
