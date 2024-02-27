@@ -34,7 +34,7 @@ Install all the npm packages. Go into the project folder and type the following 
 ```bash
 npm install
 ```
-
+Setup your Firebase Authentication App and add the configs to firebase.js file under components 
 In order to run the application Type the following command
 
 ```bash
