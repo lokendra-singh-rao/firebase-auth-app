@@ -25,8 +25,6 @@ Install create-react-app npm package globally. This will help to easily run the 
 npm install -g create-react-app
 ```
 
-Click on the link to see the application
-
 ## Cloning and Running the Application in local
 
 Clone the project into local 
@@ -44,3 +42,5 @@ npm run dev
 ```
 
 The Application Runs on **localhost:3000**
+
+If you have not cloned the Backend repo then you need to clone the backend code as well which is in this repository https://github.com/lokendra-singh-rao/firebase-auth-app-backend/
